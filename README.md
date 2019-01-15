@@ -79,10 +79,10 @@ The data was shuffle and split into the different sets using the train_test_spli
 ![alt text][image7]
 ![alt text][image8]
 
-Nevertheless, the final test was driving the car autonomously trough the track without touching any lane line. The result can be observe on the file [video.mp4](video.mp4) 
+Nevertheless, the final test was driving the car autonomously trough the track without touching any lane line. The result can be observe on the file [video.mp4](/video.mp4) 
 
 ### Simulation
 
-As it can be observed on the [video](video.mp4), the car run smoothly trough the track without any issues. Considering that this is the second submission of the project, it is possible to see an important improvement in comparison to the first version, as the car does not touch any lane line now. 
+As it can be observed on the [video](./video.mp4), the car run smoothly trough the track without any issues. Considering that this is the second submission of the project, it is possible to see an important improvement in comparison to the first version, as the car does not touch any lane line now. 
 
 All the curves where overcome with no issues. 
