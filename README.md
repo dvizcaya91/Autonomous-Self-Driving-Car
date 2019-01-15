@@ -3,11 +3,11 @@
 [//]: # (Image References)
 
 [image1]: ./report_images/summary.png "Model Summary"
-[image2]: ./report_images/angles_hist_before.png "Hist before"
+[image2]: ./report_images/angles_hits_before.png "Hist before"
 [image3]: ./report_images/angles_hist_after.png "Hist after"
-[image4]: ./report_images/cropped_11252.png "Cropped 1"
-[image5]: ./report_images/cropped_11457.png "Cropped 2"
-[image6]: ./report_images/cropped_637.png "Cropped 3"
+[image4]: ./report_images/cropped_11252.jpg "Cropped 1"
+[image5]: ./report_images/cropped_11457.jpg "Cropped 2"
+[image6]: ./report_images/cropped_637.jpg "Cropped 3"
 [image7]: ./report_images/training.png "Training_1"
 [image8]: ./report_images/training_2.png "Training_2"
  
